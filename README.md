@@ -1,5 +1,5 @@
 # Naturebytes Wildlife Cam Kit - Powered by Raspberry Pi and Python
-![Cover image](cover.jpg)
+![Cover image](cover.JPG)
 
 [Naturebytes](https://naturebytes.org/about/) define themselves as a “community of conservation, education and technology”. They created this Wildlife Camera Kit to help people reconnect with Nature, through technology and digital skills learning accessible to all.
 This project allows to automatically take pictures or videos when detecting movement (change in infrared heat).
