@@ -17,7 +17,7 @@ This project allows to automatically take pictures or videos when detecting move
 - Optionally: Mini RTC Module for Raspberry Pi (for timestamping)
 - Power supply (max recommended dimension: 70 mm (w) x 100 mm (l) x 22 mm (d)):
   - USB Power Bank 
-  - Or rechargeable Li-ion battery (needs a Seeed studio Lipo rider)
+  - Or rechargeable Li-ion battery (needs a *Seeed studio* Lipo rider)
 
 ## Assembly
 Check out Assembly guide file (downloaded from the Naturebytes [resources page]( https://naturebytes.org/2020/09/03/wildlife-cam-kit-resources/))
@@ -25,10 +25,10 @@ Check out Assembly guide file (downloaded from the Naturebytes [resources page](
 ## How to run
 OS images from the community’s website comes with the files in the *Desktop* and the *Naturesbytes* folders, both in /home/pi/
 
-To start camera:
+To start the camera:
 1.	Plug fully charged power supply in the Raspberry Pi’s micro-USB *PWR* port
 2.	Plug in screen and HID
 3.	Launch the *launch_nbcamera.sh* file from the *Naturebytes/Scripts* folder
 4.	Unplug peripherals
 5.	Close case and set in selected area
-6.	When the PIR detects a change in heat, it will trigger capture and by default save the created file in the */usb0* folder (with or without a usb storage actually plugged in)
+6.	When the PIR detects a change in heat, it will trigger capture and by default save the created file in the */usb0* folder (with or without a USB storage actually plugged in)
